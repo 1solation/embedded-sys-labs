@@ -37,4 +37,5 @@ SUBDIRS := \
 . \
 core\core \
 core\core\libb64 \
+libraries\Preferences\src \
 

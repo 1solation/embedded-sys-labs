@@ -41,5 +41,10 @@
 			<type>2</type>
 			<locationURI>ECLIPSE_HOME/arduinoPlugin/packages/esp32/hardware/esp32/1.0.1/variants/esp32</locationURI>
 		</link>
+		<link>
+			<name>libraries/FreeRTOS</name>
+			<type>2</type>
+			<locationURI>ECLIPSE_HOME/arduinoPlugin/libraries/FreeRTOS/10.1.1-1</locationURI>
+		</link>
 	</linkedResources>
 </projectDescription>

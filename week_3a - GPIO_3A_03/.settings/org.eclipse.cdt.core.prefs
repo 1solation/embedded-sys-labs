@@ -538,7 +538,7 @@ environment/project/io.sloeber.core.toolChain.release.1428877088/JANTJE.COM_PORT
 environment/project/io.sloeber.core.toolChain.release.1428877088/JANTJE.COM_PORT/value=COM5
 environment/project/io.sloeber.core.toolChain.release.1428877088/JANTJE.ECLIPSE_LOCATION/delimiter=;
 environment/project/io.sloeber.core.toolChain.release.1428877088/JANTJE.ECLIPSE_LOCATION/operation=replace
-environment/project/io.sloeber.core.toolChain.release.1428877088/JANTJE.ECLIPSE_LOCATION/value=${eclipse_home}
+environment/project/io.sloeber.core.toolChain.release.1428877088/JANTJE.ECLIPSE_LOCATION/value=C\:\\apps\\sloeber\\
 environment/project/io.sloeber.core.toolChain.release.1428877088/JANTJE.EXTRA.ALL/delimiter=;
 environment/project/io.sloeber.core.toolChain.release.1428877088/JANTJE.EXTRA.ALL/operation=replace
 environment/project/io.sloeber.core.toolChain.release.1428877088/JANTJE.EXTRA.ALL/value=
@@ -577,7 +577,7 @@ environment/project/io.sloeber.core.toolChain.release.1428877088/JANTJE.PACKAGE_
 environment/project/io.sloeber.core.toolChain.release.1428877088/JANTJE.PACKAGE_ID/value=esp32
 environment/project/io.sloeber.core.toolChain.release.1428877088/JANTJE.PROJECT_NAME/delimiter=;
 environment/project/io.sloeber.core.toolChain.release.1428877088/JANTJE.PROJECT_NAME/operation=replace
-environment/project/io.sloeber.core.toolChain.release.1428877088/JANTJE.PROJECT_NAME/value=GPIO_3A_03
+environment/project/io.sloeber.core.toolChain.release.1428877088/JANTJE.PROJECT_NAME/value=week_3a - GPIO_3A_03
 environment/project/io.sloeber.core.toolChain.release.1428877088/JANTJE.SELECTED.PLATFORM/delimiter=;
 environment/project/io.sloeber.core.toolChain.release.1428877088/JANTJE.SELECTED.PLATFORM/operation=replace
 environment/project/io.sloeber.core.toolChain.release.1428877088/JANTJE.SELECTED.PLATFORM/value=${eclipse_home}/arduinoPlugin/packages/esp32/hardware/esp32/1.0.0
